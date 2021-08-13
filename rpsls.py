@@ -6,7 +6,7 @@ print("\n All hail Sam Kass! Hail! XD\n")
 print(" The rules are really simple:\n scissors cut paper\n paper covers rock\n rock crushes lizard\n lizard poisons spock\n")
 print(" spock smashes scissors\n scissors decapitate lizard\n lizard eats paper\n paper disproves spock\n spock vapourises rock\n")
 print(" and as it always has.... rock crushes scissor\n") 
-print("Multiplayer or with computer?\n")
+print("Multiplayer or with computer? \n")
 score_player1 = 0
 score_player2 = 0
 score_computer =0
